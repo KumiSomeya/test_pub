@@ -1,0 +1,3 @@
+#1023test
+
+test for class(1023)
