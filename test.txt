@@ -1,3 +1,4 @@
 #1023test
 
+aaaaaa
 test for class(1023)
